@@ -1,4 +1,16 @@
-## Hi there 👋
+## 👋 Hey there! I'm Edgar Abreu
+
+<!--
+- Un hi there!
+- breve descripción (lista)
+- Skills (1o experiencia, luego conocimientos)
+  - languages
+  - frameworks
+- link linkedin
+- github stats
+- proyectos
+
+-->
 
 <!--
 **EdgarAbreuDev/EdgarAbreuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
