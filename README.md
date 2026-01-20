@@ -1,8 +1,8 @@
 ## 👋 Hey there! I'm Edgar Abreu
 
-### 👨‍💻 &nbsp;About Me
+#### 👨‍💻 About Me
 
-## 📌 &nbsp;Tech Stack
+## 📌 Tech Stack
 
 #### 📚 Languages
 
@@ -32,6 +32,9 @@
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## GitHub Statistics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 - breve descripción (lista)
