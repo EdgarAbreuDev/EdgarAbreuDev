@@ -34,12 +34,12 @@
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)
 
 ### 🤝 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarabreu.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edgar-abreu-170b46384)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-abreu-170b46384)
 
 <!--
 - breve descripción (lista)
