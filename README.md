@@ -34,8 +34,7 @@
 
 ## GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly&type=png)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly&type=png)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)
 
 ### 🤝 Contact Me
 
