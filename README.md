@@ -34,7 +34,7 @@
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight-duo&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 - breve descripción (lista)
