@@ -36,11 +36,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
+### 🤝 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarabreu.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edgar-abreu-170b46384)
+
 <!--
 - breve descripción (lista)
 - link linkedin
-- github stats
-- proyectos
 
 -->
 
