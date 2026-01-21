@@ -2,6 +2,11 @@
 
 ### 👨‍💻 About Me
 
+  🧑‍🎓 &nbsp;Qualified software developer with training in web and cross-platform development.\
+  🌐 &nbsp;With experience in both frontend and backend.\
+  🌱 &nbsp;Passionate about learning new technologies and improving software performance.\
+  🎯 &nbsp;Currently expanding my skills in Android development.
+
 ## 📌 Tech Stack
 
 ### 📚 Languages
@@ -32,7 +37,7 @@
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdgarAbreuDev&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)
 
